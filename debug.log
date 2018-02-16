@@ -5,3 +5,5 @@
 [0216/080226:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0216/084728:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0216/084733:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0216/123741:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0216/123746:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
