@@ -1,0 +1,83 @@
+# Created by Ultra Librarian Gold 8.3.15 Copyright © 1999-2018
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "YAG_SQP10")
+Pad (Name "1") (Location -2220, 0) (HoleSize 44) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 64, 64) (Shape Rectangular) (Layer Top)
+PadShape (Size 64, 64) (Shape Rectangular) (Layer Bottom)
+PadShape (Size 64, 64) (Shape Rectangular) (Layer MidLayer)
+EndPad
+Pad (Name "2") (Location 0, 0) (HoleSize 44) (Surface False) (Rotation 180) (ExpandMask 0)
+PadShape (Size 64, 64) (Shape Rounded) (Layer Top)
+PadShape (Size 64, 64) (Shape Rounded) (Layer Bottom)
+PadShape (Size 64, 64) (Shape Rounded) (Layer MidLayer)
+EndPad
+Line (Width 6) (Start -2262, -42) (End -2262, 42) (Layer Mechanical15) 
+Line (Width 6) (Start -2262, 42) (End -2094.5, 42) (Layer Mechanical15) 
+Line (Width 6) (Start -125.5, 42) (End 42, 42) (Layer Mechanical15) 
+Line (Width 6) (Start 42, 42) (End 42, -42) (Layer Mechanical15) 
+Line (Width 6) (Start 42, -42) (End -125.5, -42) (Layer Mechanical15) 
+Line (Width 6) (Start -2094.5, -42) (End -2262, -42) (Layer Mechanical15) 
+Line (Width 6) (Start -2094.5, -216.5) (End -2094.5, -42) (Layer Mechanical15) 
+Line (Width 6) (Start -2094.5, 42) (End -2094.5, 216.5) (Layer Mechanical15) 
+Line (Width 6) (Start -2094.5, 216.5) (End -125.5, 216.5) (Layer Mechanical15) 
+Line (Width 6) (Start -125.5, 216.5) (End -125.5, 42) (Layer Mechanical15) 
+Line (Width 6) (Start -125.5, -42) (End -125.5, -216.5) (Layer Mechanical15) 
+Line (Width 6) (Start -125.5, -216.5) (End -2094.5, -216.5) (Layer Mechanical15) 
+Polygon (PointCount 12) (Layer Mechanical15) 
+Point (-2262, -42)
+Point (-2262, 42)
+Point (-2094.5, 42)
+Point (-2094.5, 216.5)
+Point (-125.5, 216.5)
+Point (-125.5, 42)
+Point (42, 42)
+Point (42, -42)
+Point (-125.5, -42)
+Point (-125.5, -216.5)
+Point (-2094.5, -216.5)
+Point (-2094.5, -42)
+EndPolygon
+Line (Width 6) (Start -2312, 0) (End -2265.10000038, 0) (Layer TopOverlay) 
+Line (Width 6) (Start -2287, 25) (End -2287, -25) (Layer TopOverlay) 
+Line (Width 6) (Start -2089.5, -211.5) (End -130.5, -211.5) (Layer TopOverlay) 
+Line (Width 6) (Start -130.5, -211.5) (End -130.5, 211.5) (Layer TopOverlay) 
+Line (Width 6) (Start -130.5, 211.5) (End -2089.5, 211.5) (Layer TopOverlay) 
+Line (Width 6) (Start -2089.5, 211.5) (End -2089.5, -211.5) (Layer TopOverlay) 
+Line (Width 1) (Start -2312, 0) (End -2262, 0) (Layer Mechanical13) 
+Line (Width 1) (Start -2287, 25) (End -2287, -25) (Layer Mechanical13) 
+Line (Width 1) (Start -2220, 0) (End -2084.5, 0) (Layer Mechanical13) 
+Line (Width 1) (Start 0, 0) (End -135.5, 0) (Layer Mechanical13) 
+Line (Width 1) (Start -2084.5, -206.5) (End -135.5, -206.5) (Layer Mechanical13) 
+Line (Width 1) (Start -135.5, -206.5) (End -135.5, 206.5) (Layer Mechanical13) 
+Line (Width 1) (Start -135.5, 206.5) (End -2084.5, 206.5) (Layer Mechanical13) 
+Line (Width 1) (Start -2084.5, 206.5) (End -2084.5, -206.5) (Layer Mechanical13) 
+Step (Name YAG_SQP10.stp)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "SQP10AJB-1K0") (PartCount 1) (DesPrefix "R?")
+Pin (Location 100, 0) (Rotation 180) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "1") (Name Visible "1") (PinSwap 1) (PartSwap 1) (PinSeq 1) (Part 1)
+Pin (Location 400, 0) (Rotation 0) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "2") (Name Hidden "2") (PinSwap 1) (PartSwap 1) (PinSeq 2) (Part 1)
+Line (Width 8) (Start 125, 50) (End 175, -50) (Part 1)
+Line (Width 8) (Start 175, -50) (End 225, 50) (Part 1)
+Line (Width 8) (Start 225, 50) (End 275, -50) (Part 1)
+Line (Width 8) (Start 275, -50) (End 325, 50) (Part 1)
+Line (Width 8) (Start 325, 50) (End 375, -50) (Part 1)
+Line (Width 8) (Start 100, 0) (End 125, 50) (Part 1)
+Line (Width 8) (Start 375, -50) (End 400, 0) (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "SQP10AJB-1K0") (Part 1)
+Parameter (Name "Vendor") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Yageo") (Part 1)
+Parameter (Name "Built_By") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "EMA_UL_Team") (Part 1)
+Parameter (Name "RefDes") (Location 225, 150) (Height 137) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 250, -275) (Height 137) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Parameter (Name "Value") (Location 250, -150) (Height 137) (Rotation 0) (Justification Center) (Value "Value") (Part 1)
+Parameter (Name "C") (Location 0, 0) (Height 1) (Rotation 0) (Justification Center) (Value "Copyright (C) 2015 Accelerated Designs. All rights reserved") (Part 1)
+Comment (Value "Part Number: SQP10AJB-1K0") (Part 1)
+Footprint (Name "YAG_SQP10")
+EndComponent
+EndComponents

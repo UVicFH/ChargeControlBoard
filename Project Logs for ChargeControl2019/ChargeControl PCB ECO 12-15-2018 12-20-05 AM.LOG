@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PACK- Pin=P3-1
+Removed Pin From Net: NetName=CHARGER- Pin=P3-7
+Added Pin To Net: NetName=CHARGER- Pin=P3-1
+Added Pin To Net: NetName=PACK- Pin=P3-7

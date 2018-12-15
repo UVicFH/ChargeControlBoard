@@ -14,3 +14,34 @@
 [0217/155838:INFO:CONSOLE(25)] "[Facebook Pixel] - Multiple pixels with conflicting versions were detected on this page.", source: http://connect.facebook.net/en_US/fbevents.js (25)
 [0217/160553:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected identifier", source: http://sp.analytics.yahoo.com/sp.pl?a=10001942155268&jsonp=YAHOO.ywa.I13N.handleJSONResponse&d=Sun%2C%2018%20Feb%202018%2000%3A05%3A53%20GMT&n=8&b=Altium%20Documentation%20%7C%20Online%20Documentation%20for%20Altium%20Products&.yp=429165&f=http%3A%2F%2Fwww.altium.com%2Fdocumentation%2F&enc=UTF-8 (1)
 [0217/160554:INFO:CONSOLE(25)] "[Facebook Pixel] - Multiple pixels with conflicting versions were detected on this page.", source: https://connect.facebook.net/en_US/fbevents.js (25)
+[1103/185836:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1104/091533:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1104/091535:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1104/091535:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1104/091538:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1104/110322:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1104/110327:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/110007:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/110013:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/110017:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/110018:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/110022:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/110023:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/110027:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/110028:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/134237:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/134242:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/134243:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/134247:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/200335:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/200340:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/200341:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/200345:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/200346:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/200350:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/200351:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/203242:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/203246:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/203246:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/203247:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1105/203248:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
