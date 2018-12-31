@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CTRLAIR+ Pin=P2-1
+Removed Pin From Net: NetName=PRECHARGED Pin=P2-2
+Added Pin To Net: NetName=PRECHARGED Pin=P2-1
+Added Pin To Net: NetName=CTRLAIR+ Pin=P2-2

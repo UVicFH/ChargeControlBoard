@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CHARGER- Pin=P3-1
+Removed Pin From Net: NetName=MIDPACK Pin=P3-6
+Added Pin To Net: NetName=MIDPACK Pin=P3-1
+Added Pin To Net: NetName=CHARGER- Pin=P3-6
+Added Member To Class: ClassName=ChargeControl2019 Member=Component K5 Relay-SPST

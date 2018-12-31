@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AIR+ Pin=P1-1
+Removed Pin From Net: NetName=TSMS 12V Pin=P1-2
+Added Pin To Net: NetName=TSMS 12V Pin=P1-1
+Added Pin To Net: NetName=AIR+ Pin=P1-2
