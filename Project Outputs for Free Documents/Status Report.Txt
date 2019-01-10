@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [ChargeControl.PcbDoc]
+   Generated File[ChargeControl.RUL]
+   Generated File[ChargeControl.EXTREP]
+   Generated File[ChargeControl.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:38:07 AM On 2019-01-10

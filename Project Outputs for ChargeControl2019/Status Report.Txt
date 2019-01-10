@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [ChargeControl.PcbDoc]
+   Generated File[ChargeControl.GTO]
+   Generated File[ChargeControl.GTP]
+   Generated File[ChargeControl.GTS]
+   Generated File[ChargeControl.GTL]
+   Generated File[ChargeControl.GBL]
+   Generated File[ChargeControl.GBS]
+   Generated File[ChargeControl.GBP]
+   Generated File[ChargeControl.GBO]
+   Generated File[ChargeControl.GM1]
+   Generated File[ChargeControl.GM2]
+   Generated File[ChargeControl.GM13]
+   Generated File[ChargeControl.GM15]
+   Generated File[ChargeControl.GM16]
+   Generated File[ChargeControl.GKO]
+   Generated File[ChargeControl.GPT]
+   Generated File[ChargeControl.GPB]
+   Generated File[ChargeControl.RUL]
+   Generated File[ChargeControl.EXTREP]
+   Generated File[ChargeControl.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 12:47:36 AM On 2019-01-10

@@ -1,0 +1,289 @@
+*************************************************************
+FileName = ChargeControl.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : ChargeControl.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : ChargeControl.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ChargeControl.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D26
+    D27
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : ChargeControl.GM2
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ChargeControl.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ChargeControl.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ChargeControl.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D22
+    D23
+    D24
+    D25
+    D28
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : ChargeControl.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ChargeControl.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ChargeControl.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D32
+    D33
+    D34
+    D35
+    D36
+    D38
+    D39
+    D40
+    D41
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : ChargeControl.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D13
+    D50
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ChargeControl.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ChargeControl.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ChargeControl.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ChargeControl.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D15
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ChargeControl.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D26
+    D27
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
